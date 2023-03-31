@@ -1,0 +1,364 @@
+{
+    "output": [
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef caramelized the onions.",
+                "The onions caramelized last night."
+            ],
+            "target": [
+                "onions",
+                "onions"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG0"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef fermented the onions.",
+                "The onions fermented last night."
+            ],
+            "target": [
+                "onions",
+                "onions"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG0"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef roasted the onions.",
+                "The onions roasted last night."
+            ],
+            "target": [
+                "onions",
+                "onions"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef toasted the onions.",
+                "The onions toasted last night."
+            ],
+            "target": [
+                "onions",
+                "onions"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG0"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef simmered the onions.",
+                "The onions simmered last night."
+            ],
+            "target": [
+                "onions",
+                "onions"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG0"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef caramelized the tomatoes.",
+                "The tomatoes caramelized last night."
+            ],
+            "target": [
+                "tomatoes",
+                "tomatoes"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG0"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef fermented the tomatoes.",
+                "The tomatoes fermented last night."
+            ],
+            "target": [
+                "tomatoes",
+                "tomatoes"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG0"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef roasted the tomatoes.",
+                "The tomatoes roasted last night."
+            ],
+            "target": [
+                "tomatoes",
+                "tomatoes"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef toasted the tomatoes.",
+                "The tomatoes toasted last night."
+            ],
+            "target": [
+                "tomatoes",
+                "tomatoes"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef simmered the tomatoes.",
+                "The tomatoes simmered last night."
+            ],
+            "target": [
+                "tomatoes",
+                "tomatoes"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG0"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef caramelized the potatoes.",
+                "The potatoes caramelized last night."
+            ],
+            "target": [
+                "potatoes",
+                "potatoes"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG0"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef fermented the potatoes.",
+                "The potatoes fermented last night."
+            ],
+            "target": [
+                "potatoes",
+                "potatoes"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG0"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef roasted the potatoes.",
+                "The potatoes roasted last night."
+            ],
+            "target": [
+                "potatoes",
+                "potatoes"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef toasted the potatoes.",
+                "The potatoes toasted last night."
+            ],
+            "target": [
+                "potatoes",
+                "potatoes"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "O"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef simmered the potatoes.",
+                "The potatoes simmered last night."
+            ],
+            "target": [
+                "potatoes",
+                "potatoes"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG0"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef caramelized the meat.",
+                "The meat caramelized last night."
+            ],
+            "target": [
+                "meat",
+                "meat"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG0"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef fermented the meat.",
+                "The meat fermented last night."
+            ],
+            "target": [
+                "meat",
+                "meat"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG0"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef roasted the meat.",
+                "The meat roasted last night."
+            ],
+            "target": [
+                "meat",
+                "meat"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef toasted the meat.",
+                "The meat toasted last night."
+            ],
+            "target": [
+                "meat",
+                "meat"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG0"
+            ]
+        },
+        {
+            "capability": "causative_alternation",
+            "test_type": "MFT",
+            "test_case": [
+                "The chef simmered the meat.",
+                "The meat simmered last night."
+            ],
+            "target": [
+                "meat",
+                "meat"
+            ],
+            "expected_label": "ARG1",
+            "model": "BiLSTM",
+            "prediction": [
+                "V",
+                "ARG0"
+            ]
+        }
+    ]
+}

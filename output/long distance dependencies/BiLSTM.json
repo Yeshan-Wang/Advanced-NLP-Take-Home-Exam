@@ -1,0 +1,184 @@
+{
+    "output": [
+        {
+            "capability": "long_distance_dependencies",
+            "test_type": "INV",
+            "test_case": [
+                "The musician tapped the drum with a drumstick.",
+                "The musician whose voice was like honey tapped the drum with a drumstick."
+            ],
+            "target": [
+                "drumstick",
+                "drumstick"
+            ],
+            "expected_label": "ARG2",
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-MNR",
+                "O"
+            ]
+        },
+        {
+            "capability": "long_distance_dependencies",
+            "test_type": "INV",
+            "test_case": [
+                "The musician tapped the drum with a drumstick.",
+                "The musician who had just won a Grammy tapped the drum with a drumstick."
+            ],
+            "target": [
+                "drumstick",
+                "drumstick"
+            ],
+            "expected_label": "ARG2",
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-MNR",
+                "O"
+            ]
+        },
+        {
+            "capability": "long_distance_dependencies",
+            "test_type": "INV",
+            "test_case": [
+                "The musician tapped the drum with a drumstick.",
+                "The musician who had traveled from another country tapped the drum with a drumstick."
+            ],
+            "target": [
+                "drumstick",
+                "drumstick"
+            ],
+            "expected_label": "ARG2",
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-MNR",
+                "O"
+            ]
+        },
+        {
+            "capability": "long_distance_dependencies",
+            "test_type": "INV",
+            "test_case": [
+                "The musician tapped the drum with a drumstick.",
+                "The musician who was known for his improvisation skills tapped the drum with a drumstick."
+            ],
+            "target": [
+                "drumstick",
+                "drumstick"
+            ],
+            "expected_label": "ARG2",
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-MNR",
+                "O"
+            ]
+        },
+        {
+            "capability": "long_distance_dependencies",
+            "test_type": "INV",
+            "test_case": [
+                "The musician tapped the drum with a drumstick.",
+                "The musician who had played with many famous musicians tapped the drum with a drumstick."
+            ],
+            "target": [
+                "drumstick",
+                "drumstick"
+            ],
+            "expected_label": "ARG2",
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-MNR",
+                "O"
+            ]
+        },
+        {
+            "capability": "long_distance_dependencies",
+            "test_type": "INV",
+            "test_case": [
+                "The musician tapped the drum with a drumstick.",
+                "The musician who had just released a new album tapped the drum with a drumstick."
+            ],
+            "target": [
+                "drumstick",
+                "drumstick"
+            ],
+            "expected_label": "ARG2",
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-MNR",
+                "O"
+            ]
+        },
+        {
+            "capability": "long_distance_dependencies",
+            "test_type": "INV",
+            "test_case": [
+                "The musician tapped the drum with a drumstick.",
+                "The musician who had studied music at Juilliard tapped the drum with a drumstick."
+            ],
+            "target": [
+                "drumstick",
+                "drumstick"
+            ],
+            "expected_label": "ARG2",
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-MNR",
+                "O"
+            ]
+        },
+        {
+            "capability": "long_distance_dependencies",
+            "test_type": "INV",
+            "test_case": [
+                "The musician tapped the drum with a drumstick.",
+                "The musician who was known for his stage presence tapped the drum with a drumstick."
+            ],
+            "target": [
+                "drumstick",
+                "drumstick"
+            ],
+            "expected_label": "ARG2",
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-MNR",
+                "O"
+            ]
+        },
+        {
+            "capability": "long_distance_dependencies",
+            "test_type": "INV",
+            "test_case": [
+                "The musician tapped the drum with a drumstick.",
+                "The musician whose music had inspired a generation tapped the drum with a drumstick."
+            ],
+            "target": [
+                "drumstick",
+                "drumstick"
+            ],
+            "expected_label": "ARG2",
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-MNR",
+                "O"
+            ]
+        },
+        {
+            "capability": "long_distance_dependencies",
+            "test_type": "INV",
+            "test_case": [
+                "The musician tapped the drum with a drumstick.",
+                "The musician who had a loyal fan base tapped the drum with a drumstick."
+            ],
+            "target": [
+                "drumstick",
+                "drumstick"
+            ],
+            "expected_label": "ARG2",
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-MNR",
+                "O"
+            ]
+        }
+    ]
+}

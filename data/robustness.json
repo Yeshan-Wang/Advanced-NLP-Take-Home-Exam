@@ -1,0 +1,1304 @@
+{
+    "data": [
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi pleyed with his frends."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi pleyed with his freinds."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi pleyed with his frinds."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi pleyed with his frands."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi pleyed with his friends."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi playd with his frends."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi playd with his freinds."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi playd with his frinds."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi playd with his frands."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi playd with his friends."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi plaied with his frends."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi plaied with his freinds."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi plaied with his frinds."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi plaied with his frands."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi plaied with his friends."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi plyed with his frends."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi plyed with his freinds."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi plyed with his frinds."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi plyed with his frands."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boi plyed with his friends."
+            ],
+            "target": [
+                "boy",
+                "boi"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz pleyed with his frends."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz pleyed with his freinds."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz pleyed with his frinds."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz pleyed with his frands."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz pleyed with his friends."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz playd with his frends."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz playd with his freinds."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz playd with his frinds."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz playd with his frands."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz playd with his friends."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz plaied with his frends."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz plaied with his freinds."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz plaied with his frinds."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz plaied with his frands."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz plaied with his friends."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz plyed with his frends."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz plyed with his freinds."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz plyed with his frinds."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz plyed with his frands."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boyz plyed with his friends."
+            ],
+            "target": [
+                "boy",
+                "boyz"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly pleyed with his frends."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly pleyed with his freinds."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly pleyed with his frinds."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly pleyed with his frands."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly pleyed with his friends."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly playd with his frends."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly playd with his freinds."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly playd with his frinds."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly playd with his frands."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly playd with his friends."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly plaied with his frends."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly plaied with his freinds."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly plaied with his frinds."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly plaied with his frands."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly plaied with his friends."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly plyed with his frends."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly plyed with his freinds."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly plyed with his frinds."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly plyed with his frands."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bly plyed with his friends."
+            ],
+            "target": [
+                "boy",
+                "bly"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey pleyed with his frends."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey pleyed with his freinds."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey pleyed with his frinds."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey pleyed with his frands."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey pleyed with his friends."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey playd with his frends."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey playd with his freinds."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey playd with his frinds."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey playd with his frands."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey playd with his friends."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey plaied with his frends."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey plaied with his freinds."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey plaied with his frinds."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey plaied with his frands."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey plaied with his friends."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey plyed with his frends."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey plyed with his freinds."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey plyed with his frinds."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey plyed with his frands."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The bey plyed with his friends."
+            ],
+            "target": [
+                "boy",
+                "bey"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy pleyed with his frends."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy pleyed with his freinds."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy pleyed with his frinds."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy pleyed with his frands."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy pleyed with his friends."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy playd with his frends."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy playd with his freinds."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy playd with his frinds."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy playd with his frands."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy playd with his friends."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy plaied with his frends."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy plaied with his freinds."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy plaied with his frinds."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy plaied with his frands."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy plaied with his friends."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy plyed with his frends."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy plyed with his freinds."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy plyed with his frinds."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy plyed with his frands."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        },
+        {
+            "capability": "robustness",
+            "test_type": "INV",
+            "test_case": [
+                "The boy played with his friends.",
+                "The boy plyed with his friends."
+            ],
+            "target": [
+                "boy",
+                "boy"
+            ],
+            "expected_label": "ARG0"
+        }
+    ]
+}

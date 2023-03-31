@@ -1,0 +1,364 @@
+{
+    "output": [
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Alice burned the box.",
+                "The box was burned by Alice."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Alice dropped the box.",
+                "The box was dropped by Alice."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Alice opened the box.",
+                "The box was opened by Alice."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Alice closed the box.",
+                "The box was closed by Alice."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Alice found the box.",
+                "The box was found by Alice."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Alice kicked the box.",
+                "The box was kicked by Alice."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Alice painted the box.",
+                "The box was painted by Alice."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Alice moved the box.",
+                "The box was moved by Alice."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Alice flipped the box.",
+                "The box was flipped by Alice."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Alice picked the box.",
+                "The box was picked by Alice."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Bob burned the box.",
+                "The box was burned by Bob."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Bob dropped the box.",
+                "The box was dropped by Bob."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Bob opened the box.",
+                "The box was opened by Bob."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Bob closed the box.",
+                "The box was closed by Bob."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Bob found the box.",
+                "The box was found by Bob."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Bob kicked the box.",
+                "The box was kicked by Bob."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Bob painted the box.",
+                "The box was painted by Bob."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Bob moved the box.",
+                "The box was moved by Bob."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Bob flipped the box.",
+                "The box was flipped by Bob."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "voice",
+            "test_type": "MFT",
+            "test_case": [
+                "Bob picked the box.",
+                "The box was picked by Bob."
+            ],
+            "target": [
+                "box",
+                "box"
+            ],
+            "expected_label": "ARG1",
+            "model": "BERT",
+            "prediction": [
+                "ARG1",
+                "ARG1"
+            ]
+        }
+    ]
+}

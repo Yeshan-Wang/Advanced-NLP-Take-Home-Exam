@@ -1,0 +1,214 @@
+{
+    "output": [
+        {
+            "capability": "location_modifiers",
+            "test_type": "DIR",
+            "test_case": [
+                "He works in Amsterdam.",
+                "He works in finance."
+            ],
+            "target": [
+                "Amsterdam",
+                "finance"
+            ],
+            "expected_label": [
+                "ARGM-LOC",
+                "ARG2"
+            ],
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-LOC",
+                "ARGM-LOC"
+            ]
+        },
+        {
+            "capability": "location_modifiers",
+            "test_type": "DIR",
+            "test_case": [
+                "He works in New York.",
+                "He works in marketing."
+            ],
+            "target": [
+                "New York",
+                "marketing"
+            ],
+            "expected_label": [
+                "ARGM-LOC",
+                "ARG2"
+            ],
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-LOC",
+                "ARGM-LOC"
+            ]
+        },
+        {
+            "capability": "location_modifiers",
+            "test_type": "DIR",
+            "test_case": [
+                "He works in London.",
+                "He works in healthcare."
+            ],
+            "target": [
+                "London",
+                "healthcare"
+            ],
+            "expected_label": [
+                "ARGM-LOC",
+                "ARG2"
+            ],
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-LOC",
+                "ARGM-LOC"
+            ]
+        },
+        {
+            "capability": "location_modifiers",
+            "test_type": "DIR",
+            "test_case": [
+                "He works in Paris.",
+                "He works in education."
+            ],
+            "target": [
+                "Paris",
+                "education"
+            ],
+            "expected_label": [
+                "ARGM-LOC",
+                "ARG2"
+            ],
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-LOC",
+                "ARG1"
+            ]
+        },
+        {
+            "capability": "location_modifiers",
+            "test_type": "DIR",
+            "test_case": [
+                "He works in Tokyo.",
+                "He works in retail."
+            ],
+            "target": [
+                "Tokyo",
+                "retail"
+            ],
+            "expected_label": [
+                "ARGM-LOC",
+                "ARG2"
+            ],
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-LOC",
+                "ARGM-LOC"
+            ]
+        },
+        {
+            "capability": "location_modifiers",
+            "test_type": "DIR",
+            "test_case": [
+                "He works in Sydney.",
+                "He works in government."
+            ],
+            "target": [
+                "Sydney",
+                "government"
+            ],
+            "expected_label": [
+                "ARGM-LOC",
+                "ARG2"
+            ],
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-LOC",
+                "ARGM-LOC"
+            ]
+        },
+        {
+            "capability": "location_modifiers",
+            "test_type": "DIR",
+            "test_case": [
+                "He works in Dubai.",
+                "He works in advertising."
+            ],
+            "target": [
+                "Dubai",
+                "advertising"
+            ],
+            "expected_label": [
+                "ARGM-LOC",
+                "ARG2"
+            ],
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-LOC",
+                "ARGM-LOC"
+            ]
+        },
+        {
+            "capability": "location_modifiers",
+            "test_type": "DIR",
+            "test_case": [
+                "He works in Hong Kong.",
+                "He works in manufacturing."
+            ],
+            "target": [
+                "Hong Kong",
+                "manufacturing"
+            ],
+            "expected_label": [
+                "ARGM-LOC",
+                "ARG2"
+            ],
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-LOC",
+                "ARGM-LOC"
+            ]
+        },
+        {
+            "capability": "location_modifiers",
+            "test_type": "DIR",
+            "test_case": [
+                "He works in Mumbai.",
+                "He works in consulting."
+            ],
+            "target": [
+                "Mumbai",
+                "consulting"
+            ],
+            "expected_label": [
+                "ARGM-LOC",
+                "ARG2"
+            ],
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-LOC",
+                "ARGM-LOC"
+            ]
+        },
+        {
+            "capability": "location_modifiers",
+            "test_type": "DIR",
+            "test_case": [
+                "He works in Singapore.",
+                "He works in real estate."
+            ],
+            "target": [
+                "Singapore",
+                "real estate"
+            ],
+            "expected_label": [
+                "ARGM-LOC",
+                "ARG2"
+            ],
+            "model": "BiLSTM",
+            "prediction": [
+                "ARGM-LOC",
+                "ARGM-LOC"
+            ]
+        }
+    ]
+}
